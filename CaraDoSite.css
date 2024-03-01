@@ -1,0 +1,24 @@
+
+body{
+    
+background-color: rgb(78, 184, 211);
+}
+
+.Vermelho{
+    color: rgb(255, 0, 0);   
+    text-align:center ; 
+}
+.azul{
+color: rgb(0, 0, 245);
+
+}
+.Ouro{
+color: rgb(255, 238, 0);
+}
+.Prata{
+color: rgb(184, 176, 176);
+}
+.aspas{
+    color: blue;
+    text-align: center;
+}
